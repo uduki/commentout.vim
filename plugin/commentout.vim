@@ -6,7 +6,7 @@ vmap ," :s/^/\"/<CR>:nohlsearch<CR>
 vmap ,% :s/^/%/<CR>:nohlsearch<CR>
 vmap ,! :s/^/!/<CR>:nohlsearch<CR>
 vmap ,; :s/^/;/<CR>:nohlsearch<CR>
-vmap ,- :s/^/-- /<CR>:nohlsearch<CR>
+vmap ,- :s/^/--/<CR>:nohlsearch<CR>
 vmap ,c :s/^\(\s*\)\/\/\\|^--\\|^> \\|^[#"%!;]//<CR>:nohlsearch<CR>
 
 " wrapping comments
